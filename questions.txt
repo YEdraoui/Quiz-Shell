@@ -1,0 +1,10 @@
+What language is predominantly used for client-side scripting in web development?
+Which database is known for its document-oriented storage system?
+Which technology is widely used to build cross-platform mobile apps?
+Name the protocol primarily used for sending email.
+Which sorting algorithm is considered efficient and commonly used for large datasets?
+What type of machine learning algorithm is used for predicting continuous values?
+Which HTML element is used to display the main navigation menu on a webpage?
+Name the technology that allows computers to connect to a network without cables.
+What file format is commonly used for images that require transparency?
+Which tool is used to manage versions of source code in software development?

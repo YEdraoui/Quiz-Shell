@@ -1,0 +1,10 @@
+JavaScript, Python, Ruby; JavaScript
+MongoDB, MySQL, PostgreSQL; MongoDB
+React Native, Swift, Kotlin; React Native
+SMTP, FTP, HTTP; SMTP
+QuickSort, BubbleSort, InsertionSort; QuickSort
+Regression, Classification, Clustering; Regression
+<nav>, <div>, <menu>; <nav>
+Wi-Fi, Ethernet, DSL; Wi-Fi
+PNG, JPEG, BMP; PNG
+Git, Mercurial, SVN; Git
